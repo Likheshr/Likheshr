@@ -1,5 +1,9 @@
 ## Hi, I'm Likhesh 👋
 
+I'm a final year med student in Makerere University, Kampala, Uganda.  
+I'm currently learning AI/ML, with the aim of eventually working on solving problems by combining tech with healthcare principles.
+
+
 <!--
 **Likheshr/Likheshr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
